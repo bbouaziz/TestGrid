@@ -1,0 +1,55 @@
+import pandas as pd
+import numpy as np
+import sys, getopt
+from grid_analytics import GridDirection, count_adjacent, compute_adjacent_max_product
+
+##################Inputs#######################
+argv=sys.argv
+opts,ars=getopt.gnu_getopt(argv,"i:",["ifile="])
+grid_path=None
+for opt,arg in opts:
+    if opt in ('-i','--ifile'):
+        grid_path=arg
+print("Input file : " + str(grid_path))
+#grid_path='TechConsultingTestGrid.csv'
+###############################################
+
+def load_frid_from_csv(path):
+    grid_pd = pd.read_csv(path,header=None)
+    grid = grid_pd.to_numpy()
+    return grid
+
+def run_for_grid_direction(grid, direction):
+    print("------------------------------------------")
+    print("Running for direction = " + str(direction))
+    try:
+        count = count_adjacent(grid, direction)
+        print("Count Adjacent : " + str(direction.value) + " : " + str(count))
+        max_product = compute_adjacent_max_product(grid, direction)
+        print("Max adjacent product : " + str(direction.value) + " : " + str(max_product))
+    except Exception as e:
+        print(str(e))
+    print("------------------------------------------")
+
+def main():
+
+    print("Loading grid from : " + grid_path)
+    grid=load_frid_from_csv(grid_path)
+    print("Grid from : " + grid_path + " loaded.")
+
+    #print(grid)
+    print("Grid shape : " + str(np.shape(grid)))
+
+    ########left-right###########
+    direction=GridDirection.left_right
+    run_for_grid_direction(grid,direction)
+
+    #######up-down##############
+    direction = GridDirection.up_down
+    run_for_grid_direction(grid, direction)
+
+    #####diagonal##############
+    direction = GridDirection.diagonal
+    run_for_grid_direction(grid, direction)
+
+main()
