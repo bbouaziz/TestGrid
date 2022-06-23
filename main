@@ -11,7 +11,6 @@ for opt,arg in opts:
     if opt in ('-i','--ifile'):
         grid_path=arg
 print("Input file : " + str(grid_path))
-#grid_path='TechConsultingTestGrid.csv'
 ###############################################
 
 def load_frid_from_csv(path):
@@ -21,12 +20,12 @@ def load_frid_from_csv(path):
 
 def run_for_grid_direction(grid, direction):
     print("------------------------------------------")
-    print("Running for direction = " + str(direction))
+    print("Running for direction = " + str(direction.name))
     try:
         count = count_adjacent(grid, direction)
-        print("Count Adjacent : " + str(direction.value) + " : " + str(count))
+        print("Count Adjacent : " + str(direction.name) + " : " + str(count))
         max_product = compute_adjacent_max_product(grid, direction)
-        print("Max adjacent product : " + str(direction.value) + " : " + str(max_product))
+        print("Max adjacent product : " + str(direction.name) + " : " + str(max_product))
     except Exception as e:
         print(str(e))
     print("------------------------------------------")
