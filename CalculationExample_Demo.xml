@@ -1,0 +1,739 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>User</Author>
+  <LastAuthor>User</LastAuthor>
+  <Created>2022-06-23T17:47:44Z</Created>
+  <LastSaved>2022-06-23T18:12:39Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>13140</WindowHeight>
+  <WindowWidth>24240</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s57">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s58">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s59">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s60">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s61">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s66">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="TechConsultingTestGrid">
+  <Table ss:ExpandedColumnCount="21" ss:ExpandedRowCount="55" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Input grid</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s66"><Data ss:Type="String">Left-right</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s57"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">75</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s57"/>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">352</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">4268</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">81092</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">55290</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s59"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s60"><Data ss:Type="Number">49</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">49</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">99</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">81</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">57</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">87</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">237699</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">194040</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">67320</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">55080</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">24786</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">83106</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">61560</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">297540</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s60"><Data ss:Type="Number">81</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">49</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">73</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">79</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">93</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">71</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">123039</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">110887</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">124465</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">317185</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">60830</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">32074</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">37758</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">191487</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s60"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">70</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">95</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">69</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">345800</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">152950</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">8740</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">5520</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">2640</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">27720</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">31878</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">69552</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s60"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">71</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">51</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">89</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">92</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">10912</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">35216</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">57936</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">242607</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">215271</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">375669</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">229887</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">335708</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s60"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">47</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">99</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">44</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">75</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">36096</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">90240</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">190080</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">17820</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">13365</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">270</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">3960</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">6600</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s60"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">98</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">81</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">64</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">254016</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">222264</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">145152</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">41216</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">98624</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">15410</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">17420</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">9880</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s60"><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">68</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">62</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">95</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">34840</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">35360</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">2720</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">8432</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">1488</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">14880</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">22800</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">119700</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s60"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">58</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">66</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">73</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">99</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">97</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">76560</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">15950</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">19140</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">24090</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">476982</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">187902</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">249678</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">42874</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">75</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">76</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">44</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">17388</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">7452</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">15525</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">66880</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="Number">39600</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12"><Data ss:Type="String">Max</Data></Cell>
+    <Cell><Data ss:Type="Number">476982</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12"><Data ss:Type="String">Count</Data></Cell>
+    <Cell ss:Formula="=COUNTA(R[-11]C[-1]:R[-2]C[8])"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell ss:Index="12" ss:StyleID="s66"><Data ss:Type="String">Up-down</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s57"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s59"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"><Data ss:Type="Number">31752</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">4802</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">67518</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">283240</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">35530</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">95985</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">66120</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">463275</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"><Data ss:Type="Number">206388</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">168070</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">291555</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">67160</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">3740</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">383940</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">2772</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">69426</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">385020</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">148248</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"><Data ss:Type="Number">92664</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">106330</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">47120</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">119209</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">11220</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">317580</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">9702</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">108402</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">263097</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">156768</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"><Data ss:Type="Number">27456</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">101990</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">48640</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">97980</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">20196</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">12060</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">31185</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">7476</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">124476</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">165600</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"><Data ss:Type="Number">16896</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">142786</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">41472</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">119280</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">323136</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">4623</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">189945</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">1780</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">46904</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">262200</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"><Data ss:Type="Number">51456</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">119756</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">51840</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">114240</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">12672</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">4278</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">36180</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">400</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">108680</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">179550</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"><Data ss:Type="Number">51456</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">140140</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">93960</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">9520</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">8448</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">104098</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">79596</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">5200</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">239590</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">40698</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"><Data ss:Type="Number">33768</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">51480</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">26680</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">3060</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">9900</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">90288</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">22880</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">184300</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">48195</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12"><Data ss:Type="String">Max</Data></Cell>
+    <Cell><Data ss:Type="Number">463275</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12"><Data ss:Type="String">Count</Data></Cell>
+    <Cell ss:Formula="=COUNTA(R[-11]C[-1]:R[-2]C[8])"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:Index="29">
+    <Cell ss:Index="12" ss:StyleID="s66"><Data ss:Type="String">Diagonal left-right</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s57"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s59"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">12152</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">14454</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">48400</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">130271</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">43092</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">7830</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">170400</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">228095</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">34937</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">28908</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">132000</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">14773</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">47628</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">36018</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">127224</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">90720</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">330505</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">36363</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">19564</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">207900</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">77341</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">24108</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">184092</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">51584</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">67200</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">667755</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">3519</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">12060</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">7560</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">43076</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">129150</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">83754</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">27776</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">61440</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">161667</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">10251</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">30150</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">3276</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">148808</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">47040</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">258876</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">1792</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">238080</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">27324</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">4020</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">42750</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">3276</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">48256</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">9800</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">363528</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">4088</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">392832</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">7176</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">129980</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">16150</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">84755</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">13572</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">7500</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">11096</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">270072</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">6240</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">87300</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12"><Data ss:Type="String">Max</Data></Cell>
+    <Cell><Data ss:Type="Number">667755</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12"><Data ss:Type="String">Count</Data></Cell>
+    <Cell ss:Formula="=COUNTA(R[-11]C[-1]:R[-2]C[8])"><Data ss:Type="Number">64</Data></Cell>
+   </Row>
+   <Row ss:Index="43">
+    <Cell ss:Index="12" ss:StyleID="s66"><Data ss:Type="String">Diagonal right-left</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s57"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s59"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">87318</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">470547</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">47120</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">18615</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">56880</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">130500</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">252252</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">86800</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">117895</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">102465</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">5688</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">47880</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">19140</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">339822</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">47740</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">214985</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">20240</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">22436</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">42840</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">21373</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">246078</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">436011</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">70680</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">17296</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">9088</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">183600</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">72963</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">7938</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">276345</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">1968</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">24064</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">222656</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">247860</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">185724</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">12096</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">92115</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">5494</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">40480</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">210112</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">126360</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">55440</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">13056</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">2070</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">8308</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">5280</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">39000</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">50544</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">30800</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">252416</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">230</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">274164</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">8760</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">51480</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">93860</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s60"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">23100</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">141984</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">230</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">36828</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">65700</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">187720</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">268884</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s63"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s64"/>
+    <Cell ss:StyleID="s65"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12"><Data ss:Type="String">Max</Data></Cell>
+    <Cell><Data ss:Type="Number">470547</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="12"><Data ss:Type="String">Count</Data></Cell>
+    <Cell ss:Formula="=COUNTA(R[-11]C[-1]:R[-2]C[8])"><Data ss:Type="Number">64</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>11</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
