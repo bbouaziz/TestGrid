@@ -4,15 +4,18 @@ import numpy as np
 class GridDirection(Enum):
     up_down="up_or_down"
     left_right="left_or_right"
-    diagonal="diagonal"
+    diagonal_left_right="diagonal_left_to_right"
+    diagonal_right_left = "diagonal_right_to_left"
 
 def get_adjacents_row_col(row,col,direction=GridDirection.left_right):
     if direction is GridDirection.left_right:
         return [[row,col-1],[row,col],[row,col+1]]
     if direction is GridDirection.up_down:
         return [[row-1,col],[row,col],[row+1,col]]
-    if direction is GridDirection.diagonal:
+    if direction is GridDirection.diagonal_left_right:
         return [[row-1,col-1],[row,col],[row+1,col+1]]
+    if direction is GridDirection.diagonal_right_left:
+        return [[row-1,col+1],[row,col],[row+1,col-1]]
     raise ValueError("Unsupported direction")
 
 def is_in_grid(row,col, rows, cols):
