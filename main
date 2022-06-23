@@ -47,8 +47,12 @@ def main():
     direction = GridDirection.up_down
     run_for_grid_direction(grid, direction)
 
-    #####diagonal##############
-    direction = GridDirection.diagonal
+    #####diagonal left to right##############
+    direction = GridDirection.diagonal_left_right
+    run_for_grid_direction(grid, direction)
+
+    #####diagonal right to left##############
+    direction = GridDirection.diagonal_right_left
     run_for_grid_direction(grid, direction)
 
 main()
